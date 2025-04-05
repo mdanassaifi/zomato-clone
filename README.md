@@ -20,14 +20,10 @@ CSS
 
 
 
-## 📸 Screenshots
-
-> (Add screenshots or demo GIFs of your app here)
-
 ## 📦 Installation
 
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/zomato-clone.git
+git clone (https://github.com/mdanassaifi/zomato-clone.git)
 cd zomato-clone
